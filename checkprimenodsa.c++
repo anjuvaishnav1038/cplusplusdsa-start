@@ -6,7 +6,7 @@ int main(){
 	cout<<"enter the n";
 	cin>>n;
 	for(int i=2;i<=n;i++){
-		if(n%2==0)
+		if(n%i==0)
 			count++;
 		else
 			count=1;	
