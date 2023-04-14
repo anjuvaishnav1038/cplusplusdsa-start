@@ -10,6 +10,6 @@ int main(){
 			ans=false;}
 	if(ans)
 		cout<<"prime"<<endl;
-		else{
-			cout<<"not prime"<<endl;}
+		else
+			cout<<"not prime"<<endl;
 	return 0;}
