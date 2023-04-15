@@ -6,7 +6,7 @@ int main(){
 	cin>>number;
 	//converstion of kilometers into miles
 	float miles;
-	miles=(float)number*.6214;
+	miles=(float)number*0.6214;
 	cout<<miles;
 	return 0;
 }
